@@ -1,0 +1,51 @@
+.rox{
+    height: 300px;
+    width: 150px;
+    border: 1px solid black;
+    border-radius: 20px;
+    outline-style: double;
+}
+
+.rox button{
+    height: 50px;
+    width: 150px;
+}
+
+.rox:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.rox button:hover{
+
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.flextape{
+display: flex;
+gap: 40px;
+justify-content: center;
+    
+}
+
+.boiki{
+    height: 150px;
+    width: 150px;
+}
+h1{
+    font-size: 20px;
+}
+
+.pele{
+    display: flex;
+    gap: 5px;
+}
+
+.pele button{
+height: 20px;
+width: 10px;
+
+}
+.bijo{
+    height: 40px;
+    width: 100px;
+}

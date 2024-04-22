@@ -1,0 +1,56 @@
+.yvelaa{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 100px;
+}
+
+
+.div1{
+    display: flex;
+    width: 100px;
+    height: 20px;
+}
+
+.div1:hover{
+    cursor: pointer;
+}
+
+.inputi{
+    width: 150px;
+    height: 200px;
+    background-color: grey;
+    border-radius: 10px;
+}
+
+
+.inp{
+    color: red;
+}
+
+.inp:hover{
+cursor: pointer;
+}
+
+.divdiv{
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+
+.bottom{
+    display: flex;
+    gap: 20px;
+}
+
+.MRpop{
+    height: auto;
+    width: auto;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.ohara:hover{
+  cursor: pointer;
+
+}

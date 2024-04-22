@@ -1,0 +1,53 @@
+.navigac{
+    background-color: rgb(29, 26, 26);
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    position: sticky;
+   
+
+}
+
+.resto{
+    display: flex;
+    gap: 30px;
+    margin-top: 30px;
+}
+
+.resto a{
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+}
+
+.resto a:hover{
+    cursor: pointer;
+
+}
+.dodo{
+    height: 50px;
+    width: 50px;
+    transition-duration:3s ;
+
+}
+
+.dodo:hover{
+    transform: translateX(20px);
+    cursor: pointer;
+}
+
+.flex{
+    display: flex;
+}
+
+.amob{
+    height: 30px;
+    width: 59px;
+    background-color: red;
+    border-radius: 10px;
+}
+
+.imigi:hover{
+    cursor: pointer;
+}
